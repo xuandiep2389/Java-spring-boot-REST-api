@@ -20,20 +20,20 @@ public class LoadDatabase {
             repository.save(new Student("Quynh","22","female","Hai duong","0223456789"));
             repository.save(new Student("Mai","30","female","Hai duong","0223456789"));
             repository.save(new Student("Quynh","28","female","Hai phong","0223555444"));
+            repository.save(new Student("Hoang Mai","22","female","Ha noi","0223456789"));
+            repository.save(new Student("Quynh","22","female","Ha noi","0223456789"));
+            repository.save(new Student("Quynh Anh","22","female","Ha noi","0223456789"));
             repository.save(new Student("Quynh","22","female","Hai duong","0223456789"));
+            repository.save(new Student("Quynh","22","female","Ha noi","0223456789"));
+            repository.save(new Student("Quynh","22","female","Sai gon","0223456789"));
+            repository.save(new Student("Loan","22","female","Sai gon","0223456789"));
+            repository.save(new Student("Quynh","22","female","Sai gon","0223456789"));
             repository.save(new Student("Quynh","22","female","Hai duong","0223456789"));
-            repository.save(new Student("Quynh","22","female","Hai duong","0223456789"));
-            repository.save(new Student("Quynh","22","female","Hai duong","0223456789"));
-            repository.save(new Student("Quynh","22","female","Hai duong","0223456789"));
-            repository.save(new Student("Quynh","22","female","Hai duong","0223456789"));
-            repository.save(new Student("Quynh","22","female","Hai duong","0223456789"));
-            repository.save(new Student("Quynh","22","female","Hai duong","0223456789"));
-            repository.save(new Student("Quynh","22","female","Hai duong","0223456789"));
-            repository.save(new Student("Quynh","22","female","Hai duong","0223456789"));
-            repository.save(new Student("Quynh","22","female","Hai duong","0223456789"));
-            repository.save(new Student("Quynh","22","female","Hai duong","0223456789"));
-            repository.save(new Student("Quynh","22","female","Hai duong","0223456789"));
-            repository.save(new Student("Quynh","22","female","Hai duong","0223456789"));
+            repository.save(new Student("Son","22","female","Sai gon","0223456789"));
+            repository.save(new Student("Tung","22","female","Sai gon","0223456789"));
+            repository.save(new Student("Tuan","22","female","Sai gon","0223456789"));
+            repository.save(new Student("Quynh","22","female","Sai gon","0223456789"));
+            repository.save(new Student("Thuy","22","female","Sai gon","0223456789"));
         };
     }
 }
